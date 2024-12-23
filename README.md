@@ -1,3 +1,6 @@
+# wagmi_rainbowkit_tutorial
+This is the source code of this [Youtube video](https://youtu.be/2BWdIrfJ3FI). 
+
 This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](/packages/create-rainbowkit).
 
 ## Getting Started

@@ -10,3 +10,4 @@ export const config = getDefaultConfig({
     sepolia
   ],
   ssr: true,
+});

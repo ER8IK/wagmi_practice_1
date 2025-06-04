@@ -4,3 +4,4 @@ module.exports = {
     autoprefixer: {},
   },
 }
+// This file is used to configure PostCSS plugins.

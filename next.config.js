@@ -8,3 +8,5 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+
+// This file is used to configure Next.js settings, such as enabling React strict mode and modifying the Webpack configuration.
